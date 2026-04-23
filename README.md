@@ -44,7 +44,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a> |
 <a href="https://twitter.com/yourprofile" target="blank">Twitter</a> |
-<a href="mailto:your-email@example.com">Email</a>
+<a href="mailto:your-nayakbhagirathi2001@example.com">Email</a>
 </p>
 
 ---
