@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 - 🔭 I’m currently working on improving my **development & cloud skills**
-- 🌱 Learning **DevOps, Cloud Computing, and Automation**
+- 🌱 Learning **Full Stack Developer, Manual & Automation Testing**
 - 💡 Interested in **CI/CD, Kubernetes, and scalable systems**
 - 🎯 Goal: To build efficient, real-world impactful solutions
 - 📫 Reach me at: **your-email@example.com**
