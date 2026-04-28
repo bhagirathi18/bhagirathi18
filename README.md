@@ -8,7 +8,7 @@
 - 🌱 Learning **Full Stack Developer, Manual & Automation Testing**
 - 💡 Interested in **CI/CD, Kubernetes, and scalable systems**
 - 🎯 Goal: To build efficient, real-world impactful solutions
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **nayakbhagirathi2001@gmail.com**
 
 ---
 
